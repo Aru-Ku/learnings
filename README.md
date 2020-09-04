@@ -1,3 +1,3 @@
 # Learning Links
 
-### [UX Design]('./ux-design/README.md)
+### [UX Design](/ux-design/README.md)
